@@ -13,7 +13,7 @@ Tested on node.js.
 Basic usage:
 -----------
     // Load the module
-    var color = require("ansi_color");
+    var color = require("ansi_color").set;
 
     // Print the word "Error" to stdout in red
     console.log(color("Error", "red"));
