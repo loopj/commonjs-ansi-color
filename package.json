@@ -7,6 +7,7 @@
         "lib": "./lib"
     },
     "main": "./lib/ansi-color.js",
+    "homepage": "https://github.com/loopj/commonjs-ansi-color",
     "repository": {
         "type": "git",
         "url": "https://github.com/loopj/commonjs-ansi-color.git"
